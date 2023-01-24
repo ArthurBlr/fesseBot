@@ -1,5 +1,5 @@
 
-# FesseBot
+# Feurbot
 
 Un bot discord crée dans le but de découvrir les possibilités que discord offre via ses apis.
 Qui vous offre des fonctionalités de fou
